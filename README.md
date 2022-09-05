@@ -1,4 +1,4 @@
-### Namaste World. I am Ritesh Koushik.👋
+### Namaste World🙏 This is Ritesh Koushik !
 
 <!--
 **IAmRiteshKoushik/IAmRiteshKoushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
