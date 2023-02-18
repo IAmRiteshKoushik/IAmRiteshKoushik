@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **JavaScript and Node.js**
 
-- 👯 I’m looking to collaborate on **projects surrounding Machine Learning, Deep Learning and Natural Language Processing.**
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and Natural Language Processing.**
 
-- 💬 Ask me about **Python and C**
+- 💬 Ask me about - **Python and C**
 
-- 📫 How to reach me **riteshkoushik39@gmail.com**
+- 📫 How to reach me - **riteshkoushik39@gmail.com**
 
 - ⚡ Fun fact **I am probably probabilistic.**
 
