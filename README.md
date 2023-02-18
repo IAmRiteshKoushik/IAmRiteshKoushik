@@ -7,9 +7,7 @@
 
 - 💬 Ask me about - **Python and C**
 
-- 📫 How to reach me - **riteshkoushik39@gmail.com**
-
-- ⚡ Fun fact **I am probably probabilistic.**
+- ⚡ Fun fact - **I am probably probabilistic.**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
