@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritesh Koushik</h1>
-<h3 align="center">A passionate programmer interested in the domains of Machine Learning, Deep Learning, Natural Language Processing and DevOps/MLOps.</h3>
+<h3 align="center">A passionate programmer interested in the domains of Machine Learning, Deep Learning, Audio Processing, Signal Processing, Natural Language Processing and MLOps.</h3>
 
 - 🌱 I’m currently learning **JavaScript and Node.js**
 
-- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and Natural Language Processing.**
+- 👯 I’m looking to collaborate on **Machine Learning Projects.**
 
 - 💬 Ask me about - **Python and C**
 
