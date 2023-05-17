@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects.**
 
-- 💬 Ask me about - **Python and C**
+- 💬 Ask me about - **Python and JavaScript**
 
 - ⚡ Fun fact - **I am probably probabilistic.**
 
