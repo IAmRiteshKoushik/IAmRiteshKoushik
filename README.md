@@ -16,10 +16,6 @@
 <a href="https://hashnode.com/@riteshkoushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@riteshkoushik" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamriteshkoushik&show_icons=true&locale=en&layout=compact" alt="iamriteshkoushik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamriteshkoushik&show_icons=true&locale=en" alt="iamriteshkoushik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamriteshkoushik&" alt="iamriteshkoushik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IAmRiteshKoushik&show_icons=true&theme=gruvbox&locale=en" alt="Ritesh Koushik" /></p>
 
 
