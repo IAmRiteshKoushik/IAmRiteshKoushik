@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Koushik</h1>
-<h3 align="center">Interested in Machine Learning, Backend Development and tolerates CSS.</h3>
+<h3 align="center">Interested in Machine Learning, Full-Stack Development and DevOps</h3>
 
 - 🌱 I’m currently learning **JavaScript and Node.js**
 
