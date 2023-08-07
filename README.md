@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I Am Ritesh Koushik.
 🔭 I’m currently working on Back-end Technologies (Express, GraphQL, TypeScript)<br>👯 I’m looking to collaborate on Full-stack projects<br>🤝 I’m looking for help with <br>💬 Ask me about Linux (I use Arch btw)<br>⚡ Fun fact : I am cheating on JavaScript with Go :)
 
 
