@@ -12,7 +12,7 @@
 1. Kalaakar - A digimarketspace for small time artisans. (Monolithic) Repo links below :
   - [Kalaakar Mobile Front-end](https://github.com/IAmRiteshKoushik/kalaakar-mobile)
   - [Kalaakar Go Back-end](https://github.com/IAmRiteshKoushik/kalaakar-backend)
-  - [Kalaakar FastAPI analytics engine](https://github.com/IAmRiteshKoushik/kalaakar-analytics-engine)
+
 2. Flow - A Java - Springboot Chat and Video Calling application. (Microservices) Repo links below:
   - [Flow](https://github.com/IAmRiteshKoushik/flow)
 
