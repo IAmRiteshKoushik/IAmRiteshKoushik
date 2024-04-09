@@ -22,11 +22,4 @@
 1. CertiMint Dashboard repository link [here](https://github.com/IAmRiteshKoushik/certi-dash)    
 2. CertiMint Backend repsitory link [here](https://github.com/IAmRiteshKoushik/certi-mint)
 
-### 3. iDEA Club Dashboard
-`To be updated`
-
-### 4. CodeReview Automation Tool
-**Tech Stack** : `nextJS`, `express`, `aws-s3`, `aws-codeguru`, `typescript`  
-1. Tool UI repository link [here](https://github.com/IAmRiteshKoushik/coderev-web)  
-2. Backend link [here](https://github.com/IAmRiteshKoushik/coderev-bk)  
-
+### 3. 
