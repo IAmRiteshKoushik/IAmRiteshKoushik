@@ -1,5 +1,5 @@
 # 💫 Hi! I Am Ritesh Koushik.
-🔭 I’m currently working on Back-end Technologies (Go, GraphQL, Apache Kafka)<br>
+🔭 I’m currently working on Back-end Technologies (Typescript, Go and Rust)<br>
 👯 I’m looking to collaborate on Full-stack projects<br>
 🤝 I’m looking for help with Blockchain Projects<br>
 💬 Ask me about Linux (I use Arch btw)<br>
@@ -22,4 +22,5 @@
 1. CertiMint Dashboard repository link [here](https://github.com/IAmRiteshKoushik/certi-dash)    
 2. CertiMint Backend repsitory link [here](https://github.com/IAmRiteshKoushik/certi-mint)
 
-### 3. 
+### 3. PincerDB : A simple database (Systems Programming)
+> NOTE : This project is under ideation stage and will be started soon!
