@@ -24,7 +24,6 @@
 
 ### 3. db-dev : A Simple Database
 **Tech Stack** : `Go-lang`
-> NOTE : This project is under ideation stage and will be started soon!
 1. Repository link [here](https://github.com/IAmRiteshKoushik/db-dev)
 
 ### 4. DePoke : A Decentralized Poker Game in Go
