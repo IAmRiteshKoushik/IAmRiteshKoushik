@@ -8,9 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-koushik/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmRiteshKoushik) 
 
-## 🧰 Currently Building :
-### 1. Amrita Centre for Entrepreneurship (Full-Stack Project)
-**Tech Stack** : `nextJS`, `express`, `typescript`, `aws`    
+## 🧰 Projects for Year : 2024-25 :
+### 1. Amrita Centre for Entrepreneurship
+**Tech Stack** : `nextJS`, `express`, `typescript`  
 1. Club Webiste repository link [here](https://github.com/IAmRiteshKoushik/ace-web)    
 2. Admin Panel repository link [here](https://github.com/IAmRiteshKoushik/ace-forge)      
 3. Backend repository link [here](https://github.com/IAmRiteshKoushik/ace-ops)      
@@ -22,5 +22,31 @@
 1. CertiMint Dashboard repository link [here](https://github.com/IAmRiteshKoushik/certi-dash)    
 2. CertiMint Backend repsitory link [here](https://github.com/IAmRiteshKoushik/certi-mint)
 
-### 3. PincerDB : A simple database (Systems Programming)
+### 3. db-dev : A Simple Database
+**Tech Stack** : `Go-lang`
 > NOTE : This project is under ideation stage and will be started soon!
+1. Repository link [here](https://github.com/IAmRiteshKoushik/db-dev)
+
+### 4. DePoke : A Decentralized Poker Game in Go
+**Tech Stack** : `Go-lang`
+1. Repository link [here](https://github.com/IAmRiteshKoushik/dePoke)
+
+### 5. RitzBlocc : Making a Blockchain from Scratch
+**Tech Stack** : `Go-lang`
+1. Repository link [here](https://github.com/IAmRiteshKoushik/ritzBlocc)
+
+### 6. Trade_rs : A Simple Trading Engine
+**Tech Stack** : `Rust`
+1. Repository link [here](https://github.com/IAmRiteshKoushik/trade-rs)
+
+### 7. Crypt-go : A Crypto-Exchange
+**Tech Stack** : `Go-lang`
+1. Repository link [here](https://github.com/IAmRiteshKoushik/)
+
+### 8. Bluedis : A Redis Clone
+**Tech Stack** : `Go-lang`
+1. Repository link [here](https://github.com/IAmRiteshKoushik/bluedis)
+
+### 9. Distributed-fs : A Distributed File System in Go
+**Tech Stack** : `Go-lang`
+1. Repository link [here](https://github.com/IAmRiteshKoushik/distributed-fs)
