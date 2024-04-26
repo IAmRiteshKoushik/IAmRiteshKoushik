@@ -2,13 +2,13 @@
 I am a full-stack web developer, and pre-final year college student. I am interested in development, mentoring, learning and thriving in online communities. During my off-time, either I explore DevOps tooling or work on system programming projects using Go and Rust.
 
 ### Technical Expertise (Full Stack Web Developer)
-[![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,materialui,nodejs,express,mysql,postgres,mongodb,prisma,go,graphql,kafka,bun&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,materialui,nodejs,express,mysql,postgres,mongodb,prisma,go,graphql,kafka,bun&theme=light)](https://skillicons.dev)
 
 ### Tools (Development, Deployment, Testing)
-[![My Tools](https://skillicons.dev/icons?i=arch,vim,neovim,vscode,git,githubactions,ubuntu,nginx,docker,kubernetes,prometheus,grafana,supabase,postman&theme=light&perline=6)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=arch,vim,neovim,vscode,git,githubactions,ubuntu,nginx,docker,kubernetes,prometheus,grafana,supabase,postman&theme=light)](https://skillicons.dev)
 
 ### Others (Moderately Familiar)
-[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,java,ruby,rust,bash&theme=light&perline=6)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,java,ruby,rust,bash&theme=light)](https://skillicons.dev)
 
 # Notable Projects
 ### 1. ACE Club Website and Admin Panel - [Click Here](https://github.com/IAmRiteshKoushik/ace)
