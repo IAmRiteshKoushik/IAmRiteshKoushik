@@ -9,13 +9,13 @@ I am a full-stack web developer, and pre-final year college student. I am intere
 [![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmRiteshKoushik&&show_icons=true&theme=tokyonight)](https://github.com/anuraghazr/github-readme-stats)
 
 # Things I have built "from scratch"
-- [ ] Multi-Threaded Web Server in C
+- [X] Multi-Threaded Web Server in C
 - [ ] JSON Parser in ??
 - [ ] Interpreter in Go
 - [ ] Compiler in Go
-- [ ] Redis in Go
+- [X] Redis in Go
 - [ ] Git in ??
-- [ ] LSP in Go
+- [X] LSP in Go
 - [X] Crypto Trading engine in Rust
 - [ ] IRC Chat System in Go
 - [ ] Database like SQLite in C
