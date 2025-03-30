@@ -17,7 +17,7 @@ You can reach out to me at :
 
 # Things I have built "from scratch"
 - [X] [Multi-Threaded Web Server in C](https://github.com/IAmRiteshKoushik/proxy-server)
-- [ ] JSON Parser in ??
+- [X] [JSON Parser in Python](https://github.com/IAmRiteshKoushik/jsonite)
 - [ ] Interpreter in Go
 - [ ] Compiler in Go
 - [X] [Redis in Go](https://github.com/IAmRiteshKoushik/bluedis)
