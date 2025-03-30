@@ -17,6 +17,7 @@ React.js, TypeScript, Node, Express, Go, Redis, PostgreSQL, AWS, Azure, Cloudfla
 - Gmail : riteshkoushik39@gmail.com
 
 ## Things I have built "from scratch"
+- [ ] TCP Server in Zig
 - [X] [Multi-Threaded Web Server in C](https://github.com/IAmRiteshKoushik/proxy-server)
 - [X] [JSON Parser in Python](https://github.com/IAmRiteshKoushik/jsonite)
 - [ ] SIMD-JSON Parser in Go
@@ -33,3 +34,4 @@ React.js, TypeScript, Node, Express, Go, Redis, PostgreSQL, AWS, Azure, Cloudfla
 - [ ] Distributed File Storage in Go
 - [ ] Grep utility in Rust
 - [ ] Parallel File Encryptor in C
+- [ ] Virtual Machine in C
