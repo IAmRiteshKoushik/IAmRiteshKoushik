@@ -2,20 +2,21 @@
 
 I am a full-stack web developer, blogger, and a final year computer-science undergrad. Find my portfolio website [here](https://ritesh-koushik.vercel.app)
 
-My tech stack : React.js, TypeScript, Node, Express, Go, Redis, PostgreSQL, AWS, Azure, Cloudflare
+### My Technology Stack
+React.js, TypeScript, Node, Express, Go, Redis, PostgreSQL, AWS, Azure, Cloudflare
 
-Things that capture my interest:
+### My Interests
 1. Backend and distributed systems
 2. DevOps and Cloud Engineering
 3. Command Line Tools
 4. Web3 and Blockchain
 5. Generative-Ai
 
-You can reach out to me at :
+### Socials
 - Twitter : @AmRiteshKoushik
 - Gmail : riteshkoushik39@gmail.com
 
-# Things I have built "from scratch"
+### Things I have built "from scratch"
 - [X] [Multi-Threaded Web Server in C](https://github.com/IAmRiteshKoushik/proxy-server)
 - [X] [JSON Parser in Python](https://github.com/IAmRiteshKoushik/jsonite)
 - [ ] Interpreter in Go
