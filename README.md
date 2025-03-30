@@ -1,17 +1,33 @@
 # 💫 Hi! I Am Ritesh Koushik.
-Find my portfolio website [here](https://iamriteshkoushik.github.io)
 
+I am a full-stack web developer, blogger, and a final year computer-science undergrad. Find my portfolio website [here](https://ritesh-koushik.vercel.app)
 
-I am a full-stack web developer, and pre-final year college student. I am interested in development, mentoring, learning and thriving in online communities. During my off-time, either I explore DevOps tooling or work on system programming projects using Go and Rust.
+My tech stack : React.js, TypeScript, Node, Express, Go, Redis, PostgreSQL, AWS, Azure, Cloudflare
+
+Things that capture my interest:
+1. Backend and distributed systems
+2. DevOps and Cloud Engineering
+3. Command Line Tools
+4. Web3 and Blockchain
+5. Generative-Ai
+
+You can reach out to me at :
+- Twitter : @AmRiteshKoushik
+- Gmail : riteshkoushik39@gmail.com
 
 # Things I have built "from scratch"
-- [X] Multi-Threaded Web Server in C
+- [X] [Multi-Threaded Web Server in C](https://github.com/IAmRiteshKoushik/proxy-server)
 - [ ] JSON Parser in ??
 - [ ] Interpreter in Go
 - [ ] Compiler in Go
-- [X] Redis in Go
-- [ ] Git in ??
-- [X] LSP in Go
-- [X] Crypto Trading engine in Rust
-- [ ] IRC Chat System in Go
+- [X] [Redis in Go](https://github.com/IAmRiteshKoushik/bluedis)
+- [ ] Kafka in Go
+- [ ] Git in Go
+- [X] [LSP in Go](https://github.com/IAmRiteshKoushik/lsp-zero)
+- [ ] Crypto Trading engine in Rust
+- [X] [Memory and Arena Allocator in C](https://github.com/IAmRiteshKoushik/malloc-my-heart)
 - [ ] Database like SQLite in C
+- [ ] Frontend Framework in JavaScript
+- [ ] Distributed File Storage in Go
+- [ ] Grep utility in Rust
+- [ ] Parallel File Encryptor in C
