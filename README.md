@@ -19,6 +19,7 @@ React.js, TypeScript, Node, Express, Go, Redis, PostgreSQL, AWS, Azure, Cloudfla
 ## Things I have built "from scratch"
 - [X] [Multi-Threaded Web Server in C](https://github.com/IAmRiteshKoushik/proxy-server)
 - [X] [JSON Parser in Python](https://github.com/IAmRiteshKoushik/jsonite)
+- [ ] SIMD-JSON Parser in Go
 - [ ] Interpreter in Go
 - [ ] Compiler in Go
 - [X] [Redis in Go](https://github.com/IAmRiteshKoushik/bluedis)
