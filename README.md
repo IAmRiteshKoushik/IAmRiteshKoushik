@@ -1,38 +1,27 @@
-# 💫 Hi! I Am Ritesh Koushik.
+### Ritesh Koushik
 
-I am a full-stack web developer, blogger, and a final year computer-science undergrad. Find my portfolio website [here](https://ritesh-koushik.vercel.app)
+---
 
-## My Technology Stack
-React.js, TypeScript, Node, Express, Go, Redis, PostgreSQL, AWS, Azure, Cloudflare
+### A bit about me
 
-## My Interests
-1. Backend and distributed systems
-2. DevOps and Cloud Engineering
-3. Command Line Tools
-4. Web3 and Blockchain
-5. Generative-Ai
+I am a software developer and a blogger. I love open-source and I am always 
+striving to improve and expand on my coding skillset. You can find my portfolio 
+website [here](https://ritesh-koushik.vercel.app).
 
-## Socials
-- Twitter : @AmRiteshKoushik
-- Gmail : riteshkoushik39@gmail.com
+### What I'm hacking on
 
-## Things I have built "from scratch"
-- [ ] TCP Server in Zig
-- [X] [Multi-Threaded Web Server in C](https://github.com/IAmRiteshKoushik/proxy-server)
-- [X] [JSON Parser in Python](https://github.com/IAmRiteshKoushik/jsonite)
-- [ ] SIMD-JSON Parser in Go
-- [ ] [Interpreter in Go](https://github.com/IAmRiteshKoushik/hermes)
-- [ ] Compiler in Go
-- [X] [Redis in Go](https://github.com/IAmRiteshKoushik/bluedis)
-- [ ] Kafka in Go
-- [ ] Git in Go
-- [X] [LSP in Go](https://github.com/IAmRiteshKoushik/lsp-zero)
-- [ ] Crypto Trading engine in Rust
-- [X] [Memory Allocator in C](https://github.com/IAmRiteshKoushik/malloc-my-heart)
-- [ ] [Arena Allocator in C](https://github.com/IAmRiteshKoushik/arena-allocs)
-- [ ] [Database like SQLite in C](https://github.com/IAmRiteshKoushik/rizzQLite)
-- [ ] Frontend Framework in JavaScript
-- [ ] [Distributed File Storage in Go](https://github.com/IAmRiteshKoushik/constello)
-- [ ] Grep utility in Rust
-- [ ] Parallel File Encryptor in C
-- [ ] [Virtual Machine in C](https://github.com/IAmRiteshKoushik/ritzvm)
+I am currently focusing on improving my Rust knowledge and expand into Solana. 
+Additionally, I am really drawn to CLI tools (esp using Bubbletea in Go). At 
+the moment my progress on them in slow going so my personal projects are private.
+
+### My interests
+- Backend and distributed systems
+- DevOps and Cloud Engineering
+- Command Line Tools
+- Web3 and Blockchain
+
+### The vibe
+
+Relax, write some code, drink some coffee and enjoy some music.
+
+![gif](./assets/dancing-gopher.gif)
