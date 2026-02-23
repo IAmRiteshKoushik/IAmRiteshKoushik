@@ -1,27 +1,16 @@
-### Ritesh Koushik
+## Ritesh Koushik
+Backend Engineer focused on building reliable, production-grade systems in Go.
+Currently interning at **Truck Hai Technologies** — contributing to backend
+services powering logistics workflows in a pre-launch startup environment.
 
----
+**What I work on:**
+- REST APIs with concurrency, safety and transactional consistency
+- Idempotent webhook systems and payment integrations
+- Event-driven backends with PostgreSQL and RabbitMQ
+- Observability with Prometheus and Grafana
 
-### A bit about me
+**Stack:** Go · PostgreSQL · Redis · RabbitMQ · Docker   
+**Available for full-time backend roles from May 2026.**
 
-I am a software developer and a blogger. I love open-source and I am always 
-striving to improve and expand on my coding skillset. You can find my portfolio 
-website [here](https://ritesh-koushik.vercel.app).
-
-### What I'm hacking on
-
-I am currently focusing on improving my Rust knowledge and expand into Solana. 
-Additionally, I am really drawn to CLI tools (esp using Bubbletea in Go). At 
-the moment my progress on them in slow going so my personal projects are private.
-
-### My interests
-- Backend and distributed systems
-- DevOps and Cloud Engineering
-- Command Line Tools
-- Web3 and Blockchain
-
-### The vibe
-
-Relax, write some code, drink some coffee and enjoy some music.
-
-![gif](./assets/dancing-gopher.gif)
+Mail: riteshkoushik39@gmail.com  
+Socials: https://linkedin.com/in/ritesh-koushik-25460b3a1
