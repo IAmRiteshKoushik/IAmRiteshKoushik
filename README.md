@@ -10,7 +10,6 @@ services powering logistics workflows in a pre-launch startup environment.
 - Observability with Prometheus and Grafana
 
 **Stack:** Go · PostgreSQL · Redis · RabbitMQ · Docker   
-**Available for full-time backend roles from May 2026.**
 
 Mail: riteshkoushik39@gmail.com  
 Socials: https://linkedin.com/in/ritesh-koushik-25460b3a1
